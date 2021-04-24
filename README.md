@@ -1,12 +1,10 @@
 # Material CODE8734
 
-A cheatsheet hub.
+(breve descrição)
 
-An app that organizes your code snippets into collections of cheat sheets and allows you to view, like and save others'.
+descrição (porque)
 
-The project is developed as part of MS3 Data Centric module at Code Institute. It is written with a Flask/Python restful backend API, and a React/Typescript CRA frontend. 
-
-Please visit the project at ...
+Projetos desenvolvidos em conjunto com os alunos no decorrer do curso
 
 ## Contents
 - TOC
