@@ -1,0 +1,7 @@
+script.Parent.MouseButton1Click:Connect(function() //Code for Roblox Studio
+
+               script.Parent.Click:Play()
+
+               script.Parent.Parent.Visible = false
+
+end)
