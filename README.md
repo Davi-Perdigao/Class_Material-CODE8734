@@ -18,10 +18,3 @@ Este repositório serve como material de apoio para os conteúdos ministrados em
 
 ### Programas e Softwares
 - 
-
-
-## Creditos
-
-- .
-- .
-- .
