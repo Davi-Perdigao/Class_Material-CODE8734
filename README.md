@@ -22,4 +22,3 @@ Este repositório serve como material de apoio para os conteúdos ministrados em
 - TinkerCad
 - Mblock
 - code.game
-s
