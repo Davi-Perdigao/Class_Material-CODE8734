@@ -1,6 +1,6 @@
 # Material CODE8734
 
-Material desenvolvido para os cursos da escola Code8734;abcd
+Material desenvolvido para os cursos da escola Code8734;abcde
 
 Este repositório serve como material de apoio para os conteúdos ministrados em sala de aula, bem como um expositório para expor os projetos desenvolvidos em conjunto com os alunos no decorrer do curso.
 
