@@ -1,0 +1,4 @@
+Servo L1 – Pino 3 – Baixo (40 graus) – Cima (140 graus);
+Servo L2 – Pino 9 – Trás (50 graus) – Frente (120 graus);
+Servo Base – Pino 5 – Esquerda (0 graus) -  Direita (180 graus);
+Servo Garra - Pino 6 – Aberta (40 graus) – Fechada (100 graus).
