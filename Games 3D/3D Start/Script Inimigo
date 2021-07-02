@@ -16,20 +16,30 @@ function jogador() -- inicia função chamada jodagor
 
                for l,v in pairs(game.Players:GetPlayers())do -- pega a lista de jogadores para saber atrás de quem têm que correr
 
-                              repeat wait() until v.Character                  if (v.Character.HumanoidRootPart.Position - NPCHumanoidRoot.Position).Magnitude <= distanciamax and (v.Character.HumanoidRootPart.Position - NPCHumanoidRoot.Position).Magnitude >= distanciamin then -- verifica se o NPC está entre a distância máxima e distância mínima
+                    repeat wait() until v.Character                  
+                    if (v.Character.HumanoidRootPart.Position - NPCHumanoidRoot.Position).Magnitude <= distanciamax and (v.Character.HumanoidRootPart.Position - NPCHumanoidRoot.Position).Magnitude >= distanciamin then -- verifica se o NPC está entre a distância máxima e distância mínima
 
-                                            NPCHumanoid:MoveTo(v.Character.HumanoidRootPart.Position - Vector3.new(0,5,0)) -- movimenta o NPC para se aproximar do jogador caso estiver dentro da distância máxima e mínima
+                         NPCHumanoid:MoveTo(v.Character.HumanoidRootPart.Position - Vector3.new(0,5,0)) -- movimenta o NPC para se aproximar do jogador caso estiver dentro da distância máxima e mínima
+                         NPCHumanoidRoot.Touched:Connect(function(hit)
 
-                              end -- end do if
+                            if hit.Parent:FindFirstChild("Humanoid") then
 
-               end -- end do for
+                              hit.Parent:FindFirstChild("Humanoid"):TakeDamage(100)
 
-end        -- end da função
+                            end
+
+                    end)
+
+                 end -- end do if
+
+            end -- end do for
+
+end -- end da função
 
  
 
 while wait() do
 
-               jogador() -- chama a função jogador
+        jogador() -- chama a função jogador
 
 end -- end do while
