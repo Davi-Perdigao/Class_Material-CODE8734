@@ -12,6 +12,7 @@ Este repositório serve como material de apoio para os conteúdos ministrados em
 
 - [Robotics.ZIP](https://github.com/Davi-Perdigao/Class_Material-CODE8734/tree/main/Robotics/Robotics%20.ZIP)
 - [Robotics PRO](https://github.com/Davi-Perdigao/Class_Material-CODE8734/tree/main/Robotics/Robotics%20Pro)
+- [Robotics X](https://github.com/Davi-Perdigao/Class_Material-CODE8734/tree/main/Robotics/Robotics%20X)
 - [Games 3D Start](https://github.com/Davi-Perdigao/Class_Material-CODE8734/tree/main/Games%203D/3D%20Start)
 - [Games 3D Advanced I](https://github.com/Davi-Perdigao/Class_Material-CODE8734/tree/main/Games%203D/Advanced%20I)
 
