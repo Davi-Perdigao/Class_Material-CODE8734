@@ -1,3 +1,9 @@
+/*
+Criar um código para verificação do mês salvo em uma 
+variável e impressão do número de dias que ele tem. 
+Por exemplo: se for Janeiro, imprimir “tem 31 dias”
+*/
+
 using System;
 
 class MainClass {

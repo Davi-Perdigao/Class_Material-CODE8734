@@ -1,3 +1,7 @@
+/*
+Criar um código que imprima apenas os números pares de 1 a 100
+*/
+
 using System;
 using System.Collections.Generic;
 
