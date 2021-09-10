@@ -9,7 +9,8 @@ class Program
 {
     static void Main (string[] args)
     {
-        for (int i=2; i<=100; i=i +2)
+        //for (int i=3; i<=100; i=i +2) ímpar
+        for (int i=2; i<=100; i=i +2) //par
         {
             Console.WriteLine(i);
         }
