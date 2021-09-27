@@ -1,3 +1,9 @@
+/*
+Jogo de pular obstacúlos com um personagem. 
+O jogo começa quando o botão for pressionado.
+Quando o jogo iniciar, pressione o botão para desviar dos obstáculos, a cada segundo é contabilizado um ponto. 
+ */
+
 #include <LiquidCrystal.h>
 
 #define PIN_BUTTON 2
