@@ -1,0 +1,17 @@
+while true do
+    wait(1)
+
+    for i = 1, 300 do
+        script.Parent.CFrame = script.Parent.CFrame * CFrame.new(0, 0, 0.2)
+
+        wait()
+    end
+
+    wait(1)
+
+    for i = 1, 300 do
+        script.Parent.CFrame = script.Parent.CFrame * CFrame.new(0, 0, -0.2)
+
+        wait()
+    end
+end

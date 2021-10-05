@@ -1,0 +1,7 @@
+wait(20)
+
+local explosion = Instance.new("Explosion")
+
+explosion.Parent = script.Parent
+
+explosion.Position = script.Parent.Position
