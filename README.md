@@ -22,5 +22,6 @@ Este repositório serve como material de apoio para os conteúdos ministrados em
 - Unity Engine
 - Repetier-Host
 - TinkerCad
-- Mblock
+- mBlock
 - code.game
+- mDesigner
